@@ -1,3 +1,3 @@
-# International Partnership for Acoustic mOnitoring of Glaciers
+# International Partnership for AcOustic Monitoring of Glaciers
 
 Web-site repository
